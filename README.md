@@ -9,7 +9,7 @@ This uses package managers, to install a set of packages in that order:
 1. Install Chocolatey
 2. Install Winget packages
 3. Install Chocolatey packages list
-4. Install Symlinks
+4. Install Symlinks *and other...*
 
 In the settings, you can change the path variables that locate the program configurations. There is also a variable here to set the **scoop**.
 
