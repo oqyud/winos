@@ -26,11 +26,12 @@ start %wid% 9WZDNCRFJ3P2 %at% && %wid% 9WZDNCRFJBH4 %at% && %wid% 9NMPJ99VJBWV %
 
 :: Discord
 %wid% Discord.Discord %at%
+
 :: Steam
 %wid% Valve.Steam %at%
-:: WinDirStat
-%wid% WinDirStat.WinDirStat %at%
+
 :: Radmin VPN
-%wid% Famatech.RadminVPN WinDirStat.WinDirStat %at%
+%wid% Famatech.RadminVPN %at%
+
 :: WingetUI
 %wid% SomePythonThings.WingetUIStore %at%

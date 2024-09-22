@@ -27,13 +27,12 @@
   <package id="git" version="2.46.1" />
   <package id="git.install" version="2.46.1" />
   <package id="gnuwin32-coreutils.portable" version="5.3.0" />
-  <package id="itch" version="26.1.9" />
   <package id="KB2919355" version="1.0.20160915" />
   <package id="KB2919442" version="1.0.20160915" />
   <package id="KB2999226" version="1.0.20181019" />
   <package id="KB3033929" version="1.0.5" />
   <package id="KB3035131" version="1.0.3" />
-  <package id="kdeconnect-kde" version="24.2.0" />
+  <package id="kdeconnect-kde" version="24.8.0" />
   <package id="lazygit" version="0.43.1" />
   <package id="logioptionsplus" version="1.82.618412" />
   <package id="musicbee" version="3.5.8698" />
