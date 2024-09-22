@@ -2,7 +2,7 @@
 
 :: Локальные переменные путей
 cd /d "%~dp0"
-set "local-vars=main\local-vars.bat"
+set "local-vars=settings\local-vars.bat"
 
 :: Применение переменных глобально
 call "%local-vars%"
