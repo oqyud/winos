@@ -24,6 +24,6 @@ In the settings, you can change the path variables that locate the program confi
 In `Packages`:
 
 - `01_winget.bat` - temporarily installs everything with a lot of `winget` commands
-- `02.choco.bat` - installs the packages from `/lists/packages.config`
+- `02_choco.bat` - installs the packages from `/lists/packages.config`
 
 - `/lists/choco-list.bat` - simply exports the current packages to `packages.config`
