@@ -12,21 +12,25 @@ call "%vars%"
 powershell -ExecutionPolicy Bypass -File "%chocolatey%"
 
 :: Восстановление пакетов
-for %%f in ("%packages%\programs\*.bat") do (
+for %%f in ("%packages%\%COMPUTERNAME%\programs\*.bat") do (
     echo Running %%f
     call "%%f"
 )
-for %%f in ("%packages%\games\*.bat") do (
+for %%f in ("%packages%\shared_games\*.bat") do (
     echo Running %%f
     call "%%f"
 )
 
 :: Восстановление конфигураций
-for %%f in ("%configurations%\programs\*.bat") do (
+for %%f in ("%configurations%\shared_programs\*.bat") do (
     echo Running %%f
     call "%%f"
 )
-for %%f in ("%configurations%\games\*.bat") do (
+for %%f in ("%configurations%\%COMPUTERNAME%\programs\*.bat") do (
+    echo Running %%f
+    call "%%f"
+)
+for %%f in ("%configurations%\shared_games\*.bat") do (
     echo Running %%f
     call "%%f"
 )

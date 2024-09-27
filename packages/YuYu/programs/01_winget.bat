@@ -13,7 +13,7 @@ set "wid=winget install -e --id"
 %wid% M2Team.NanaZip %at%
 
 :: MyASUS, ArmouryCrate
-start %wid% 9N7R5S6B0ZZH %at% && %wid% Asus.ArmouryCrate %at%
+%wid% 9N7R5S6B0ZZH %at% && %wid% Asus.ArmouryCrate %at%
 
 :: Bonjour
 %wid% Apple.Bonjour %at%

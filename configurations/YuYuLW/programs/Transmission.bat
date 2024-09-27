@@ -1,9 +1,9 @@
 @echo off
 setlocal
 
-set "app=Syncthing"
+set "app=transmission"
 
-set "from_1=%storage-programs%\%app%\YuYu"
+set "from_1=%storage-programs%\Transmission\%device_1%"
 set "to_1=%localappdata%\%app%"
 
 rd /s /q "%to_1%"

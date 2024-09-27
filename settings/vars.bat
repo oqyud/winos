@@ -9,4 +9,5 @@ set "storage-games=%storage%\Games"
 set "storage-daws=%storage%\DAWs"
 set "storage-daws-plugins=%storage-daws%\Plugins"
 
-set "device_main=YuYu"
+set "device_0=YuYu"
+set "device_1=YuYuLW"

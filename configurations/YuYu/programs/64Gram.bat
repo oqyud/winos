@@ -3,7 +3,7 @@ setlocal
 
 set "app=64Gram Desktop"
 
-set "from_1=%storage-programs%\%app%"
+set "from_1=%storage-programs%\%app%\%device_0%"
 set "to_1=%appdata%\%app%\tdata"
 
 rd /s /q "%to_1%"
