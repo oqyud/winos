@@ -23,6 +23,7 @@ set "storage=%structure%\Shared\Storage"
 
 set "storage-programs=%storage%\Programs"
 set "storage-games=%storage%\Games"
+set "storage-settings=%storage%\Settings"
 set "storage-daws=%storage%\DAWs"
 set "storage-daws-plugins=%storage-daws%\Plugins"
 
