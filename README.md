@@ -11,19 +11,4 @@ This uses package managers, to install a set of packages in that order:
 3. Install Chocolatey packages list
 4. Install Symlinks *and other...*
 
-In the settings, you can change the path variables that locate the program configurations. There is also a variable here to set the **scoop**.
-
-# Main
-
-- `setup.bat` - main deploy
-
-- `configurations-only.bat` - only configurations symlinking
-
-- `test.bat` - test bats in `test` folder
-
-In `Packages`:
-
-- `01_winget.bat` - temporarily installs everything with a lot of `winget` commands
-- `02_choco.bat` - installs the packages from `/lists/packages.config`
-
-- `/lists/choco-list.bat` - simply exports the current packages to `packages.config`
+In the settings, you can change the path variables.
