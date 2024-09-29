@@ -12,6 +12,6 @@ del /q /s "%to_1%\config\*"
 del /q /s "%to_1%\VSTPlugins\FabFilter Pro-Q 3.dll"
 
 reg add "HKEY_LOCAL_MACHINE\SOFTWARE\EqualizerAPO" /v "ConfigPath" /t REG_SZ /d "%storage-programs%\%app%" /f
-mklink /H "%to_1%\VSTPlugins\FabFilter Pro-Q 3.dll" "%FabFilter Pro-Q 3%"
+mklink "%to_1%\VSTPlugins\FabFilter Pro-Q 3.dll" "%FabFilter Pro-Q 3%"
 
 endlocal

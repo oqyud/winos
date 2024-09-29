@@ -1,12 +1,8 @@
 @echo off
 
-cd /d "%~dp0"
-set "local-vars=settings\local-vars.bat"
+:: Init
+call init.bat
 
-call "%local-vars%"
-call "%vars%"
-
-:: Восстановление конфигураций
 for %%f in ("%configurations%\shared_programs\*.bat") do (
     echo Running %%f
     call "%%f"
