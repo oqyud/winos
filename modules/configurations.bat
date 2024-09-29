@@ -1,6 +1,7 @@
 @echo off
+setlocal
 
-:: Init
+cd /d "%~dp0"
 call init.bat
 
 for %%f in ("%configurations%\shared_programs\*.bat") do (
@@ -15,3 +16,4 @@ for %%f in ("%configurations%\shared_games\*.bat") do (
     echo Running %%f
     call "%%f"
 )
+endlocal

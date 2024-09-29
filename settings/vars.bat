@@ -1,5 +1,19 @@
-@echo off
+:: LOCAL ::
 
+:: Пакетные менеджеры
+set "chocolatey=%~dp0chocolatey.ps1"
+set "scoop=%~dp0\scoop\scoop.ps1"
+
+set "data=%root%\data"
+:: Пакеты
+set "packages=%data%\packages"
+:: Конфигурации
+set "configurations=%data%\configurations"
+:: Mounts
+set "mounts=%data%\mounts"
+
+
+:: GLOBAL ::
 
 :: Main Folder
 set "structure=D:\Structure"

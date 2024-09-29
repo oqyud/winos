@@ -1,6 +1,7 @@
 @echo off
 setlocal
-:: Init
+
+cd /d "%~dp0"
 call init.bat
 
 for %%f in ("%mounts%\*.bat") do (

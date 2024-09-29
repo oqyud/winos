@@ -1,6 +1,6 @@
 @echo off
 
-:: Init
+cd /d "%~dp0"
 call init.bat
 
 for %%f in ("test\*.bat") do (

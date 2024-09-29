@@ -1,7 +1,7 @@
 @echo off
 setlocal
 
-:: Init
+cd /d "%~dp0"
 call init.bat
 
 powershell -ExecutionPolicy Bypass -File "%chocolatey%"

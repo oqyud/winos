@@ -1,13 +1,8 @@
 @echo off
 
-:: Init
-call init.bat
+cd /d "%~dp0\modules"
 
-:: Install Packages
-call packages.bat
-
-:: Configurations
-call configurations.bat
-
-:: Mounts
-call mounts.bat
+call .\init.bat
+call .\packages.bat
+call .\configurations.bat
+call .\mounts.bat
