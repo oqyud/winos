@@ -6,11 +6,11 @@ call init.bat
 
 powershell -ExecutionPolicy Bypass -File "%chocolatey%"
 
-for %%f in ("%packages%\%COMPUTERNAME%\programs\*.bat") do (
+for %%f in ("%packages-any%\programs\*.bat") do (
     echo Running %%f
     call "%%f"
 )
-for %%f in ("%packages%\shared_games\*.bat") do (
+for %%f in ("%packages-user%\programs\*.bat") do (
     echo Running %%f
     call "%%f"
 )

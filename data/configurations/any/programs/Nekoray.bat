@@ -3,7 +3,7 @@ setlocal
 
 set "app=Nekoray"
 
-set "from_1=%storage-programs%\%app%\%device_0%\config"
+set "from_1=%storage-programs%\%app%\config"
 set "to_1=%programdata%\chocolatey\lib\nekoray\tools\nekoray\config"
 
 rd /s /q "%to_1%"

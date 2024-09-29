@@ -3,7 +3,7 @@ setlocal
 
 set "app=transmission"
 
-set "from_1=%storage-programs%\Transmission\%device_1%"
+set "from_1=%storage-programs%\Transmission\%computername%"
 set "to_1=%localappdata%\%app%"
 
 rd /s /q "%to_1%"

@@ -7,8 +7,12 @@ set "scoop=%~dp0\scoop\scoop.ps1"
 set "data=%root%\data"
 :: Пакеты
 set "packages=%data%\packages"
+set "packages-any=%data%\any"
+set "packages-user=%data%\%computername%"
 :: Конфигурации
 set "configurations=%data%\configurations"
+set "configurations-any=%configurations%\any"
+set "configurations-user=%data%\%computername%"
 :: Mounts
 set "mounts=%data%\mounts"
 
@@ -30,7 +34,3 @@ set "storage-daws-plugins=%storage-daws%\Plugins"
 :: User Folders
 set "user-folder=%structure%\User"
 set "music-folder=%user-folder%\Music"
-
-:: Devices
-set "device_0=YuYu"
-set "device_1=YuYuLW"
