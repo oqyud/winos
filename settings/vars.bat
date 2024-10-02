@@ -7,12 +7,13 @@ set "scoop=%~dp0\scoop\scoop.ps1"
 set "data=%root%\data"
 :: Пакеты
 set "packages=%data%\packages"
-set "packages-any=%data%\any"
-set "packages-user=%data%\%computername%"
+set "packages-any=%packages%\any"
+set "packages-user=%packages%\%computername%"
+set "packages-user-lists=%packages%\%computername%\lists"
 :: Конфигурации
 set "configurations=%data%\configurations"
 set "configurations-any=%configurations%\any"
-set "configurations-user=%data%\%computername%"
+set "configurations-user=%configurations%\%computername%"
 :: Mounts
 set "mounts=%data%\mounts"
 

@@ -1,0 +1,228 @@
+{
+	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
+	"CreationDate" : "2024-10-02T14:53:29.598-00:00",
+	"Sources" : 
+	[
+		{
+			"Packages" : 
+			[
+				{
+					"PackageIdentifier" : "AIMP.AIMP",
+					"Version" : "5.30.2563"
+				},
+				{
+					"PackageIdentifier" : "Git.Git",
+					"Version" : "2.46.2"
+				},
+				{
+					"PackageIdentifier" : "SumatraPDF.SumatraPDF",
+					"Version" : "3.5.2"
+				},
+				{
+					"PackageIdentifier" : "Apple.BonjourPrintServices",
+					"Version" : "2.0.2.0"
+				},
+				{
+					"PackageIdentifier" : "EclipseAdoptium.Temurin.17.JRE",
+					"Version" : "17.0.12.7"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2010.x64",
+					"Version" : "10.0.40219"
+				},
+				{
+					"PackageIdentifier" : "EclipseAdoptium.Temurin.21.JRE",
+					"Version" : "21.0.4.7"
+				},
+				{
+					"PackageIdentifier" : "tailscale.tailscale",
+					"Version" : "1.74.0"
+				},
+				{
+					"PackageIdentifier" : "Apple.Bonjour",
+					"Version" : "3.1.0.1"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2008.x64",
+					"Version" : "9.0.30729.6161"
+				},
+				{
+					"PackageIdentifier" : "joncampbell123.DOSBox-X",
+					"Version" : "2023.10.06"
+				},
+				{
+					"PackageIdentifier" : "Zoom.Zoom",
+					"Version" : "6.2.47507"
+				},
+				{
+					"PackageIdentifier" : "Logitech.OptionsPlus",
+					"Version" : "1.82.618412"
+				},
+				{
+					"PackageIdentifier" : "Nvidia.PhysX",
+					"Version" : "9.23.1019"
+				},
+				{
+					"PackageIdentifier" : "EclipseAdoptium.Temurin.8.JRE",
+					"Version" : "8.0.422.5"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.PowerShell",
+					"Version" : "7.4.5.0"
+				},
+				{
+					"PackageIdentifier" : "Transmission.Transmission",
+					"Version" : "4.0.6"
+				},
+				{
+					"PackageIdentifier" : "MichaelTippach.ASIO4ALL",
+					"Version" : "2.16"
+				},
+				{
+					"PackageIdentifier" : "Guru3D.Afterburner",
+					"Version" : "4.6.5"
+				},
+				{
+					"PackageIdentifier" : "KDE.KDEConnect",
+					"Version" : "24.08.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.EdgeWebView2Runtime",
+					"Version" : "129.0.2792.65"
+				},
+				{
+					"PackageIdentifier" : "Guru3D.RTSS",
+					"Version" : "7.3.4"
+				},
+				{
+					"PackageIdentifier" : "Valve.Steam",
+					"Version" : "2.10.91.91"
+				},
+				{
+					"PackageIdentifier" : "RamenSoftware.Windhawk",
+					"Version" : "1.5.1"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2013.x64",
+					"Version" : "12.0.40664.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.PowerToys",
+					"Version" : "0.85.0"
+				},
+				{
+					"PackageIdentifier" : "Famatech.RadminVPN",
+					"Version" : "1.4.4642.1"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.Runtime.6",
+					"Version" : "6.0.33"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.8",
+					"Version" : "8.0.8"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2012.x86",
+					"Version" : "11.0.61030.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x86",
+					"Version" : "14.40.33810.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x64",
+					"Version" : "14.40.33810.0"
+				},
+				{
+					"PackageIdentifier" : "Python.Launcher",
+					"Version" : "> 3.12.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2008.x86",
+					"Version" : "9.0.30729.6161"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2013.x86",
+					"Version" : "12.0.40664.0"
+				},
+				{
+					"PackageIdentifier" : "Apple.AppleSoftwareUpdate",
+					"Version" : "2.7.0.3"
+				},
+				{
+					"PackageIdentifier" : "Chocolatey.Chocolatey",
+					"Version" : "2.3.0.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2010.x86",
+					"Version" : "10.0.40219"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2012.x64",
+					"Version" : "11.0.61030.0"
+				},
+				{
+					"PackageIdentifier" : "Brave.Brave",
+					"Version" : "129.1.70.119"
+				},
+				{
+					"PackageIdentifier" : "Discord.Discord",
+					"Version" : "1.0.9165"
+				},
+				{
+					"PackageIdentifier" : "Flow-Launcher.Flow-Launcher",
+					"Version" : "1.19.2"
+				},
+				{
+					"PackageIdentifier" : "Playnite.Playnite",
+					"Version" : "10.34"
+				},
+				{
+					"PackageIdentifier" : "Obsidian.Obsidian",
+					"Version" : "1.6.7"
+				},
+				{
+					"PackageIdentifier" : "64Gram.64Gram",
+					"Version" : "1.1.39"
+				},
+				{
+					"PackageIdentifier" : "Python.Python.3.12",
+					"Version" : "3.12.7"
+				},
+				{
+					"PackageIdentifier" : "M2Team.NanaZip",
+					"Version" : "3.1.1080.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.AppInstaller",
+					"Version" : "1.23.1911.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.UI.Xaml.2.7",
+					"Version" : "7.2409.9001.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.UI.Xaml.2.8",
+					"Version" : "8.2310.30001.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCLibs.Desktop.14",
+					"Version" : "14.0.33728.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.WindowsTerminal.Preview",
+					"Version" : "1.22.2702.0"
+				}
+			],
+			"SourceDetails" : 
+			{
+				"Argument" : "https://cdn.winget.microsoft.com/cache",
+				"Identifier" : "Microsoft.Winget.Source_8wekyb3d8bbwe",
+				"Name" : "winget",
+				"Type" : "Microsoft.PreIndexed.Package"
+			}
+		}
+	],
+	"WinGetVersion" : "1.8.1911"
+}
