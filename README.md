@@ -7,8 +7,8 @@ It's just a simple deployment. You may need it for something more. **Portable pr
 This uses package managers, to install a set of packages in that order:
 
 1. Install Chocolatey
-2. Install Winget packages
-3. Install Chocolatey packages list
+2. Install Chocolatey and Winget packages
+3. Install packages lists
 4. Install Symlinks *and other...*
 
 In the settings, you can change the path variables.
