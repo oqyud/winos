@@ -1,34 +1,42 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2024-10-02T21:35:48.355-00:00",
+	"CreationDate" : "2024-10-02T21:44:24.913-00:00",
 	"Sources" : 
 	[
 		{
 			"Packages" : 
 			[
 				{
-					"PackageIdentifier" : "9PCLLLH15SMT"
+					"PackageIdentifier" : "9PCLLLH15SMT",
+					"Version" : "5.30.2563"
 				},
 				{
-					"PackageIdentifier" : "XP89DCGQ3K6VLD"
+					"PackageIdentifier" : "XP89DCGQ3K6VLD",
+					"Version" : "0.85.0"
 				},
 				{
-					"PackageIdentifier" : "9N7R5S6B0ZZH"
+					"PackageIdentifier" : "9N7R5S6B0ZZH",
+					"Version" : "4.0.24.0"
 				},
 				{
-					"PackageIdentifier" : "9WZDNCRFJBH4"
+					"PackageIdentifier" : "9WZDNCRFJBH4",
+					"Version" : "2024.11070.31001.0"
 				},
 				{
-					"PackageIdentifier" : "9N8G5RFZ9XK3"
+					"PackageIdentifier" : "9N8G5RFZ9XK3",
+					"Version" : "1.22.2702.0"
 				},
 				{
-					"PackageIdentifier" : "9NMPJ99VJBWV"
+					"PackageIdentifier" : "9NMPJ99VJBWV",
+					"Version" : "1.24082.137.0"
 				},
 				{
-					"PackageIdentifier" : "9WZDNCRFJ3P2"
+					"PackageIdentifier" : "9WZDNCRFJ3P2",
+					"Version" : "10.22091.10061.0"
 				},
 				{
-					"PackageIdentifier" : "9NF8H0H7WMLT"
+					"PackageIdentifier" : "9NF8H0H7WMLT",
+					"Version" : "8.1.966.0"
 				}
 			],
 			"SourceDetails" : 
