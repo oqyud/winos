@@ -1,17 +1,17 @@
-::@echo off
+@echo off
 setlocal
 
-cd /d "%~dp0"
-call init.bat
+set "init=%~dp0\..\settings\init.bat"
+call %init%
 
-::powershell -ExecutionPolicy Bypass -File "%chocolatey%"
+where choco >nul 2>nul
+if %errorlevel% neq 0 (
+    echo Chocolatey installing...
+    powershell -ExecutionPolicy Bypass -File "%chocolatey%"
+) else (
+    echo Chocolatey has already installed.
+)
 
-for %%f in ("%packages-any%\*.bat") do (
-    echo Running %%f
-    call "%%f"
-)
-for %%f in ("%packages-user%\*.bat") do (
-    echo Running %%f
-    call "%%f"
-)
+call %packages-installer%
+
 endlocal

@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2024-10-02T14:53:31.487-00:00",
+	"CreationDate" : "2024-10-02T21:35:48.355-00:00",
 	"Sources" : 
 	[
 		{
@@ -10,19 +10,25 @@
 					"PackageIdentifier" : "9PCLLLH15SMT"
 				},
 				{
-					"PackageIdentifier" : "XPFFTQ037JWMHS"
-				},
-				{
 					"PackageIdentifier" : "XP89DCGQ3K6VLD"
 				},
 				{
+					"PackageIdentifier" : "9N7R5S6B0ZZH"
+				},
+				{
 					"PackageIdentifier" : "9WZDNCRFJBH4"
+				},
+				{
+					"PackageIdentifier" : "9N8G5RFZ9XK3"
 				},
 				{
 					"PackageIdentifier" : "9NMPJ99VJBWV"
 				},
 				{
 					"PackageIdentifier" : "9WZDNCRFJ3P2"
+				},
+				{
+					"PackageIdentifier" : "9NF8H0H7WMLT"
 				}
 			],
 			"SourceDetails" : 

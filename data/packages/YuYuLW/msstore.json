@@ -1,0 +1,29 @@
+{
+	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
+	"CreationDate" : "2024-10-02T21:05:00.872-00:00",
+	"Sources" : 
+	[
+		{
+			"Packages" : 
+			[
+				{
+					"PackageIdentifier" : "9WZDNCRFJBH4"
+				},
+				{
+					"PackageIdentifier" : "9N8G5RFZ9XK3"
+				},
+				{
+					"PackageIdentifier" : "9WZDNCRFJ3P2"
+				}
+			],
+			"SourceDetails" : 
+			{
+				"Argument" : "https://storeedgefd.dsx.mp.microsoft.com/v9.0",
+				"Identifier" : "StoreEdgeFD",
+				"Name" : "msstore",
+				"Type" : "Microsoft.Rest"
+			}
+		}
+	],
+	"WinGetVersion" : "1.8.1911"
+}

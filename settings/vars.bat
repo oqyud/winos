@@ -1,16 +1,19 @@
 :: LOCAL ::
 
-:: Пакетные менеджеры
+:: Package Managers
 set "chocolatey=%~dp0chocolatey.ps1"
-set "scoop=%~dp0\scoop\scoop.ps1"
+set "scoop=%~dp0scoop.ps1"
 
+:: Local Root
 set "data=%root%\data"
-:: Пакеты
+
+:: Packages
 set "packages=%data%\packages"
-set "packages-any=%packages%\any"
-set "packages-user=%packages%\%computername%"
-set "packages-user-lists=%packages%\%computername%\lists"
-:: Конфигурации
+set "packages-installer=%packages%\install.bat"
+set "packages-user-lists=%packages%\%computername%"
+set "packages-any-lists=%packages%\any"
+
+:: Configurations
 set "configurations=%data%\configurations"
 set "configurations-any=%configurations%\any"
 set "configurations-user=%configurations%\%computername%"
@@ -25,7 +28,6 @@ set "structure=D:\Structure"
 
 :: Storage
 set "storage=%structure%\Shared\Storage"
-
 set "storage-programs=%storage%\Programs"
 set "storage-games=%storage%\Games"
 set "storage-settings=%storage%\Settings"
