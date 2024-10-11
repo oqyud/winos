@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2024-10-02T21:44:24.119-00:00",
+	"CreationDate" : "2024-10-11T15:19:44.586-00:00",
 	"Sources" : 
 	[
 		{
@@ -12,7 +12,7 @@
 				},
 				{
 					"PackageIdentifier" : "Git.Git",
-					"Version" : "2.46.2"
+					"Version" : "2.47.0"
 				},
 				{
 					"PackageIdentifier" : "SumatraPDF.SumatraPDF",
@@ -75,6 +75,10 @@
 					"Version" : "4.0.6"
 				},
 				{
+					"PackageIdentifier" : "TeamSpeakSystems.TeamSpeakClient.Beta",
+					"Version" : "5.0.0"
+				},
+				{
 					"PackageIdentifier" : "MichaelTippach.ASIO4ALL",
 					"Version" : "2.16"
 				},
@@ -88,7 +92,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.EdgeWebView2Runtime",
-					"Version" : "129.0.2792.65"
+					"Version" : "129.0.2792.79"
 				},
 				{
 					"PackageIdentifier" : "Guru3D.RTSS",
@@ -108,7 +112,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.PowerToys",
-					"Version" : "0.85.0"
+					"Version" : "0.85.1"
 				},
 				{
 					"PackageIdentifier" : "Famatech.RadminVPN",
@@ -117,10 +121,6 @@
 				{
 					"PackageIdentifier" : "Microsoft.DotNet.Runtime.6",
 					"Version" : "6.0.33"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.8",
-					"Version" : "8.0.8"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2012.x86",
@@ -159,16 +159,20 @@
 					"Version" : "10.0.40219"
 				},
 				{
+					"PackageIdentifier" : "Microsoft.DotNet.AspNetCore.8",
+					"Version" : "8.0.8"
+				},
+				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2012.x64",
 					"Version" : "11.0.61030.0"
 				},
 				{
 					"PackageIdentifier" : "Brave.Brave",
-					"Version" : "129.1.70.119"
+					"Version" : "129.1.70.126"
 				},
 				{
 					"PackageIdentifier" : "Discord.Discord",
-					"Version" : "1.0.9165"
+					"Version" : "1.0.9166"
 				},
 				{
 					"PackageIdentifier" : "Flow-Launcher.Flow-Launcher",
@@ -184,7 +188,7 @@
 				},
 				{
 					"PackageIdentifier" : "64Gram.64Gram",
-					"Version" : "1.1.39"
+					"Version" : "1.1.41"
 				},
 				{
 					"PackageIdentifier" : "Python.Python.3.12",
