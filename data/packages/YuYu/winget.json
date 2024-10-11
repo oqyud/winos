@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2024-10-11T15:19:44.586-00:00",
+	"CreationDate" : "2024-10-12T00:00:20.602-00:00",
 	"Sources" : 
 	[
 		{
@@ -57,6 +57,14 @@
 				{
 					"PackageIdentifier" : "Logitech.OptionsPlus",
 					"Version" : "1.82.618412"
+				},
+				{
+					"PackageIdentifier" : "glzr-io.zebar",
+					"Version" : "> 1.8.1"
+				},
+				{
+					"PackageIdentifier" : "glzr-io.glazewm",
+					"Version" : "3.4.0"
 				},
 				{
 					"PackageIdentifier" : "Nvidia.PhysX",
@@ -179,12 +187,20 @@
 					"Version" : "1.19.2"
 				},
 				{
+					"PackageIdentifier" : "MatsuriDayo.NekoRay",
+					"Version" : "3.26"
+				},
+				{
 					"PackageIdentifier" : "Playnite.Playnite",
 					"Version" : "10.34"
 				},
 				{
 					"PackageIdentifier" : "Obsidian.Obsidian",
 					"Version" : "1.6.7"
+				},
+				{
+					"PackageIdentifier" : "sxyazi.yazi",
+					"Version" : "0.3.3"
 				},
 				{
 					"PackageIdentifier" : "64Gram.64Gram",

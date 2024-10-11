@@ -4,7 +4,7 @@ setlocal
 set "app=Nekoray"
 
 set "from_1=%storage-programs%\%app%\config"
-set "to_1=%programdata%\chocolatey\lib\nekoray\tools\nekoray\config"
+set "to_1=%localappdata%\Microsoft\WinGet\Packages\MatsuriDayo.NekoRay_Microsoft.Winget.Source_8wekyb3d8bbwe\nekoray\config"
 
 rd /s /q "%to_1%"
 
