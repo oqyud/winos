@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <packages>
-  <package id="64gram" version="1.1.41" />
   <package id="adb" version="35.0.2" />
   <package id="aimp" version="5.30.2563" />
   <package id="amd-ryzen-chipset" version="2024.7.26" />
@@ -31,7 +30,7 @@
   <package id="KB3035131" version="1.0.3" />
   <package id="kdeconnect-kde" version="24.8.0" />
   <package id="lazygit" version="0.44.1" />
-  <package id="logioptionsplus" version="1.82.618412" />
+  <package id="logioptionsplus" version="1.83.635658" />
   <package id="nano" version="7.2.36.20230412" />
   <package id="nano-win" version="7.2.36.20230412" />
   <package id="nvidia-display-driver" version="565.90" />
@@ -42,13 +41,12 @@
   <package id="python3" version="3.12.6" />
   <package id="python312" version="3.12.6" />
   <package id="realtek-hd-audio-driver" version="2.82.0020200601" />
-  <package id="sing-box" version="1.9.7" />
+  <package id="sing-box" version="1.10.0" />
   <package id="sonobus" version="1.7.2" />
   <package id="sublimetext4" version="4.0.0.418000" />
   <package id="sumatrapdf" version="3.5.2" />
   <package id="sumatrapdf.install" version="3.5.2" />
-  <package id="syncthing" version="1.27.12" />
-  <package id="tailscale" version="1.74.0" />
+  <package id="syncthing" version="1.28.0" />
   <package id="Temurin17jre" version="17.0.12.7" />
   <package id="Temurin21jre" version="21.0.4.7" />
   <package id="Temurin8jre" version="8.422.5" />
@@ -58,5 +56,6 @@
   <package id="vcredist2015" version="14.0.24215.20170201" />
   <package id="ventoy" version="1.0.99" />
   <package id="windhawk" version="1.5.1" />
+  <package id="winfetch" version="2.5.1" />
   <package id="zoom" version="6.2.3.47507" />
 </packages>

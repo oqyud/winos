@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2024-10-17T13:07:32.255-00:00",
+	"CreationDate" : "2024-10-18T17:27:20.739-00:00",
 	"Sources" : 
 	[
 		{
@@ -96,7 +96,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.EdgeWebView2Runtime",
-					"Version" : "129.0.2792.89"
+					"Version" : "130.0.2849.46"
 				},
 				{
 					"PackageIdentifier" : "Guru3D.RTSS",
@@ -184,7 +184,7 @@
 				},
 				{
 					"PackageIdentifier" : "Brave.Brave",
-					"Version" : "129.1.70.126"
+					"Version" : "130.1.71.114"
 				},
 				{
 					"PackageIdentifier" : "Discord.Discord",
@@ -240,7 +240,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.WindowsTerminal.Preview",
-					"Version" : "1.22.2702.0"
+					"Version" : "1.22.2912.0"
 				}
 			],
 			"SourceDetails" : 
