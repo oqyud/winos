@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2024-10-18T17:27:20.739-00:00",
+	"CreationDate" : "2024-10-21T21:52:49.675-00:00",
 	"Sources" : 
 	[
 		{
@@ -31,10 +31,6 @@
 					"Version" : "10.0.40219"
 				},
 				{
-					"PackageIdentifier" : "EclipseAdoptium.Temurin.21.JRE",
-					"Version" : "21.0.4.7"
-				},
-				{
 					"PackageIdentifier" : "Apple.Bonjour",
 					"Version" : "3.1.0.1"
 				},
@@ -55,12 +51,12 @@
 					"Version" : "1.83.635658"
 				},
 				{
-					"PackageIdentifier" : "glzr-io.zebar",
-					"Version" : "> 1.8.1"
-				},
-				{
 					"PackageIdentifier" : "glzr-io.glazewm",
 					"Version" : "3.4.0"
+				},
+				{
+					"PackageIdentifier" : "EclipseAdoptium.Temurin.21.JRE",
+					"Version" : "21.0.5.11"
 				},
 				{
 					"PackageIdentifier" : "Nvidia.PhysX",
@@ -77,10 +73,6 @@
 				{
 					"PackageIdentifier" : "Transmission.Transmission",
 					"Version" : "4.0.6"
-				},
-				{
-					"PackageIdentifier" : "TeamSpeakSystems.TeamSpeakClient.Beta",
-					"Version" : "5.0.0"
 				},
 				{
 					"PackageIdentifier" : "MichaelTippach.ASIO4ALL",
@@ -183,12 +175,16 @@
 					"Version" : "11.0.61030.0"
 				},
 				{
+					"PackageIdentifier" : "Revolt.RevoltDesktop",
+					"Version" : "1.0.6"
+				},
+				{
 					"PackageIdentifier" : "Brave.Brave",
 					"Version" : "130.1.71.114"
 				},
 				{
 					"PackageIdentifier" : "Discord.Discord",
-					"Version" : "1.0.9166"
+					"Version" : "1.0.9167"
 				},
 				{
 					"PackageIdentifier" : "Google.PlatformTools",
