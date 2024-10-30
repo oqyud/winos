@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2024-10-21T21:53:21.641-00:00",
+	"CreationDate" : "2024-10-30T14:59:06.418-00:00",
 	"Sources" : 
 	[
 		{
@@ -12,7 +12,7 @@
 				},
 				{
 					"PackageIdentifier" : "XPFFTQ037JWMHS",
-					"Version" : "130.0.2849.46"
+					"Version" : "130.0.2849.56"
 				},
 				{
 					"PackageIdentifier" : "XP89DCGQ3K6VLD",
@@ -36,7 +36,7 @@
 				},
 				{
 					"PackageIdentifier" : "9NMPJ99VJBWV",
-					"Version" : "1.24092.78.0"
+					"Version" : "1.24101.61.0"
 				},
 				{
 					"PackageIdentifier" : "9WZDNCRFJ3P2",
@@ -56,5 +56,5 @@
 			}
 		}
 	],
-	"WinGetVersion" : "1.8.1911"
+	"WinGetVersion" : "1.9.25180"
 }
