@@ -4,7 +4,6 @@
   <package id="amd-ryzen-chipset" version="2024.10.21" />
   <package id="autohotkey.portable" version="2.0.18" />
   <package id="bonjour" version="3.1.0.4" />
-  <package id="brave" version="1.71.114" />
   <package id="chocolatey" version="2.3.0" />
   <package id="chocolatey-compatibility.extension" version="1.0.0" />
   <package id="chocolatey-core.extension" version="1.4.0" />
@@ -18,9 +17,7 @@
   <package id="dotnetfx" version="4.8.0.20220524" />
   <package id="equalizerapo" version="1.4.0" />
   <package id="ffmpeg" version="7.1.0" />
-  <package id="fzf" version="0.55.0" />
-  <package id="git" version="2.47.0" />
-  <package id="git.install" version="2.47.0" />
+  <package id="fzf" version="0.56.0" />
   <package id="gnuwin32-coreutils.portable" version="5.3.0" />
   <package id="KB2919355" version="1.0.20160915" />
   <package id="KB2919442" version="1.0.20160915" />
@@ -32,7 +29,7 @@
   <package id="logioptionsplus" version="1.83.635658" />
   <package id="nano" version="7.2.36.20230412" />
   <package id="nano-win" version="7.2.36.20230412" />
-  <package id="nvidia-display-driver" version="565.90" />
+  <package id="nvidia-display-driver" version="566.3.0" />
   <package id="playnite" version="10.34.0" />
   <package id="powertoys" version="0.85.1" />
   <package id="python" version="3.12.6" />
@@ -48,8 +45,7 @@
   <package id="transmission" version="4.0.6" />
   <package id="vcredist140" version="14.40.33816" />
   <package id="vcredist2015" version="14.0.24215.20170201" />
-  <package id="ventoy" version="1.0.99" />
+  <package id="vkme" version="6.0.49.581" />
   <package id="windhawk" version="1.5.1" />
   <package id="winfetch" version="2.5.1" />
-  <package id="zoom" version="6.2.3.47507" />
 </packages>
