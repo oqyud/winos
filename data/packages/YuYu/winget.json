@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2024-10-31T23:25:39.784-00:00",
+	"CreationDate" : "2024-11-05T22:27:37.050-00:00",
 	"Sources" : 
 	[
 		{
@@ -16,15 +16,19 @@
 				},
 				{
 					"PackageIdentifier" : "Git.Git",
-					"Version" : "2.47.0"
+					"Version" : "2.47.0.2"
 				},
 				{
-					"PackageIdentifier" : "SumatraPDF.SumatraPDF",
-					"Version" : "3.5.2"
+					"PackageIdentifier" : "Sonosaurus.SonoBus",
+					"Version" : "1.7.2"
 				},
 				{
 					"PackageIdentifier" : "Apple.BonjourPrintServices",
 					"Version" : "2.0.2.0"
+				},
+				{
+					"PackageIdentifier" : "Neovim.Neovim",
+					"Version" : "0.10.2"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2010.x64",
@@ -51,6 +55,14 @@
 					"Version" : "2023.10.06"
 				},
 				{
+					"PackageIdentifier" : "Transmission.Transmission",
+					"Version" : "4.0.6"
+				},
+				{
+					"PackageIdentifier" : "glzr-io.zebar",
+					"Version" : "> 1.8.1"
+				},
+				{
 					"PackageIdentifier" : "Logitech.OptionsPlus",
 					"Version" : "1.83.635658"
 				},
@@ -71,10 +83,6 @@
 					"Version" : "8.0.432.6"
 				},
 				{
-					"PackageIdentifier" : "Transmission.Transmission",
-					"Version" : "4.0.6"
-				},
-				{
 					"PackageIdentifier" : "glzr-io.glazewm",
 					"Version" : "3.5.0"
 				},
@@ -85,10 +93,6 @@
 				{
 					"PackageIdentifier" : "Guru3D.Afterburner",
 					"Version" : "4.6.5"
-				},
-				{
-					"PackageIdentifier" : "KDE.KDEConnect",
-					"Version" : "24.08.0"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.EdgeWebView2Runtime",
@@ -111,8 +115,8 @@
 					"Version" : "12.0.40664.0"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.PowerToys",
-					"Version" : "0.85.1"
+					"PackageIdentifier" : "Python.Launcher",
+					"Version" : "> 3.12.0"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2012.x86",
@@ -129,10 +133,6 @@
 				{
 					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.8",
 					"Version" : "8.0.10"
-				},
-				{
-					"PackageIdentifier" : "Python.Launcher",
-					"Version" : "> 3.12.0"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x64",
@@ -179,10 +179,6 @@
 					"Version" : "11.0.61030.0"
 				},
 				{
-					"PackageIdentifier" : "Revolt.RevoltDesktop",
-					"Version" : "1.0.6"
-				},
-				{
 					"PackageIdentifier" : "Brave.Brave",
 					"Version" : "130.1.71.121"
 				},
@@ -191,8 +187,20 @@
 					"Version" : "1.0.9167"
 				},
 				{
+					"PackageIdentifier" : "Fastfetch-cli.Fastfetch",
+					"Version" : "2.29.0"
+				},
+				{
 					"PackageIdentifier" : "Google.PlatformTools",
 					"Version" : "35.0.1"
+				},
+				{
+					"PackageIdentifier" : "JesseDuffield.lazygit",
+					"Version" : "0.44.1"
+				},
+				{
+					"PackageIdentifier" : "KDE.KDEConnect",
+					"Version" : "24.02.0"
 				},
 				{
 					"PackageIdentifier" : "MatsuriDayo.NekoRay",
@@ -203,8 +211,24 @@
 					"Version" : "10.34"
 				},
 				{
+					"PackageIdentifier" : "SagerNet.sing-box",
+					"Version" : "1.10.1"
+				},
+				{
+					"PackageIdentifier" : "SumatraPDF.SumatraPDF",
+					"Version" : "3.5.2"
+				},
+				{
+					"PackageIdentifier" : "Syncthing.Syncthing",
+					"Version" : "1.28.0"
+				},
+				{
 					"PackageIdentifier" : "Ventoy.Ventoy",
 					"Version" : "1.0.99"
+				},
+				{
+					"PackageIdentifier" : "Yandex.Disk",
+					"Version" : "3.2.42.5054"
 				},
 				{
 					"PackageIdentifier" : "ebkr.r2modman",
@@ -212,15 +236,27 @@
 				},
 				{
 					"PackageIdentifier" : "Obsidian.Obsidian",
-					"Version" : "1.7.4"
+					"Version" : "1.7.5"
+				},
+				{
+					"PackageIdentifier" : "junegunn.fzf",
+					"Version" : "0.56.0"
 				},
 				{
 					"PackageIdentifier" : "sxyazi.yazi",
 					"Version" : "0.3.3"
 				},
 				{
+					"PackageIdentifier" : "Python.Python.3.13",
+					"Version" : "3.13.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.PowerToys",
+					"Version" : "0.86.0"
+				},
+				{
 					"PackageIdentifier" : "64Gram.64Gram",
-					"Version" : "1.1.43"
+					"Version" : "1.1.45"
 				},
 				{
 					"PackageIdentifier" : "Python.Python.3.12",
