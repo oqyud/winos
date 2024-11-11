@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2024-11-11T11:05:28.637-00:00",
+	"CreationDate" : "2024-11-11T17:26:45.558-00:00",
 	"Sources" : 
 	[
 		{
@@ -13,10 +13,6 @@
 				{
 					"PackageIdentifier" : "Git.Git",
 					"Version" : "2.47.0.2"
-				},
-				{
-					"PackageIdentifier" : "SumatraPDF.SumatraPDF",
-					"Version" : "3.5.2"
 				},
 				{
 					"PackageIdentifier" : "EclipseAdoptium.Temurin.17.JRE",
@@ -57,10 +53,6 @@
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2005.x86",
 					"Version" : "8.0.61001"
-				},
-				{
-					"PackageIdentifier" : "KDE.KDEConnect",
-					"Version" : "24.08.0"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.EdgeWebView2Runtime",
@@ -111,12 +103,20 @@
 					"Version" : "0.44.1"
 				},
 				{
+					"PackageIdentifier" : "KDE.KDEConnect",
+					"Version" : "24.02.0"
+				},
+				{
 					"PackageIdentifier" : "MatsuriDayo.NekoRay",
 					"Version" : "3.26"
 				},
 				{
 					"PackageIdentifier" : "Playnite.Playnite",
 					"Version" : "10.34"
+				},
+				{
+					"PackageIdentifier" : "SumatraPDF.SumatraPDF",
+					"Version" : "3.5.2"
 				},
 				{
 					"PackageIdentifier" : "Syncthing.Syncthing",
