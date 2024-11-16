@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2024-11-16T15:28:08.252-00:00",
+	"CreationDate" : "2024-11-16T15:31:50.002-00:00",
 	"Sources" : 
 	[
 		{
@@ -167,10 +167,6 @@
 					"Version" : "1.0.4"
 				},
 				{
-					"PackageIdentifier" : "Chocolatey.Chocolatey",
-					"Version" : "2.3.0.0"
-				},
-				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2010.x86",
 					"Version" : "10.0.40219"
 				},
@@ -280,7 +276,7 @@
 				},
 				{
 					"PackageIdentifier" : "64Gram.64Gram",
-					"Version" : "1.1.45"
+					"Version" : "1.1.46"
 				},
 				{
 					"PackageIdentifier" : "Python.Python.3.12",
