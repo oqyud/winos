@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2024-11-16T15:31:50.002-00:00",
+	"CreationDate" : "2024-11-19T23:51:19.765-00:00",
 	"Sources" : 
 	[
 		{
@@ -17,6 +17,10 @@
 				{
 					"PackageIdentifier" : "Git.Git",
 					"Version" : "2.47.0.2"
+				},
+				{
+					"PackageIdentifier" : "Proton.ProtonVPN",
+					"Version" : "3.3.2"
 				},
 				{
 					"PackageIdentifier" : "Sonosaurus.SonoBus",
@@ -39,12 +43,12 @@
 					"Version" : "17.0.13.11"
 				},
 				{
-					"PackageIdentifier" : "Zoom.Zoom",
-					"Version" : "6.2.49583"
-				},
-				{
 					"PackageIdentifier" : "glzr-io.glazewm",
 					"Version" : "3.6.0"
+				},
+				{
+					"PackageIdentifier" : "Zoom.Zoom",
+					"Version" : "6.2.50536"
 				},
 				{
 					"PackageIdentifier" : "Apple.Bonjour",
@@ -199,12 +203,16 @@
 					"Version" : "131.1.73.89"
 				},
 				{
+					"PackageIdentifier" : "Codeusa.SteamCleaner",
+					"Version" : "2.4"
+				},
+				{
 					"PackageIdentifier" : "Discord.Discord",
 					"Version" : "1.0.9169"
 				},
 				{
 					"PackageIdentifier" : "Fastfetch-cli.Fastfetch",
-					"Version" : "2.29.0"
+					"Version" : "2.30.0"
 				},
 				{
 					"PackageIdentifier" : "GNU.Nano",
@@ -231,6 +239,10 @@
 					"Version" : "10.34"
 				},
 				{
+					"PackageIdentifier" : "Rclone.Rclone",
+					"Version" : "1.68.2"
+				},
+				{
 					"PackageIdentifier" : "SagerNet.sing-box",
 					"Version" : "1.10.1"
 				},
@@ -252,11 +264,11 @@
 				},
 				{
 					"PackageIdentifier" : "ebkr.r2modman",
-					"Version" : "3.1.53"
+					"Version" : "3.1.54"
 				},
 				{
 					"PackageIdentifier" : "Obsidian.Obsidian",
-					"Version" : "1.7.6"
+					"Version" : "1.7.7"
 				},
 				{
 					"PackageIdentifier" : "ItchIo.Itch",
@@ -271,12 +283,16 @@
 					"Version" : "0.3.3"
 				},
 				{
+					"PackageIdentifier" : "kapitainsky.RcloneBrowser",
+					"Version" : "1.8.0"
+				},
+				{
 					"PackageIdentifier" : "Microsoft.PowerToys",
 					"Version" : "0.86.0"
 				},
 				{
 					"PackageIdentifier" : "64Gram.64Gram",
-					"Version" : "1.1.46"
+					"Version" : "1.1.48"
 				},
 				{
 					"PackageIdentifier" : "Python.Python.3.12",
