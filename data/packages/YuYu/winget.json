@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2024-11-19T23:51:19.765-00:00",
+	"CreationDate" : "2024-11-23T21:36:52.006-00:00",
 	"Sources" : 
 	[
 		{
@@ -17,10 +17,6 @@
 				{
 					"PackageIdentifier" : "Git.Git",
 					"Version" : "2.47.0.2"
-				},
-				{
-					"PackageIdentifier" : "Proton.ProtonVPN",
-					"Version" : "3.3.2"
 				},
 				{
 					"PackageIdentifier" : "Sonosaurus.SonoBus",
@@ -51,6 +47,10 @@
 					"Version" : "6.2.50536"
 				},
 				{
+					"PackageIdentifier" : "KeePassXCTeam.KeePassXC",
+					"Version" : "2.7.9"
+				},
+				{
 					"PackageIdentifier" : "Apple.Bonjour",
 					"Version" : "3.1.0.1"
 				},
@@ -65,6 +65,10 @@
 				{
 					"PackageIdentifier" : "Transmission.Transmission",
 					"Version" : "4.0.6"
+				},
+				{
+					"PackageIdentifier" : "Nextcloud.NextcloudDesktop",
+					"Version" : "3.14.3"
 				},
 				{
 					"PackageIdentifier" : "Logitech.OptionsPlus",
@@ -139,10 +143,6 @@
 					"Version" : "11.0.61030.0"
 				},
 				{
-					"PackageIdentifier" : "Famatech.RadminVPN",
-					"Version" : "2.0.4893.3"
-				},
-				{
 					"PackageIdentifier" : "Python.Launcher",
 					"Version" : "> 3.12.0"
 				},
@@ -165,6 +165,10 @@
 				{
 					"PackageIdentifier" : "Apple.AppleSoftwareUpdate",
 					"Version" : "2.7.0.3"
+				},
+				{
+					"PackageIdentifier" : "Famatech.RadminVPN",
+					"Version" : "2.0.4894.4"
 				},
 				{
 					"PackageIdentifier" : "ClockworkMod.UniversalADBDriver",
@@ -200,7 +204,7 @@
 				},
 				{
 					"PackageIdentifier" : "Brave.Brave",
-					"Version" : "131.1.73.89"
+					"Version" : "131.1.73.91"
 				},
 				{
 					"PackageIdentifier" : "Codeusa.SteamCleaner",
@@ -292,7 +296,7 @@
 				},
 				{
 					"PackageIdentifier" : "64Gram.64Gram",
-					"Version" : "1.1.48"
+					"Version" : "1.1.49"
 				},
 				{
 					"PackageIdentifier" : "Python.Python.3.12",
@@ -316,7 +320,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.WindowsTerminal",
-					"Version" : "1.21.2911.0"
+					"Version" : "1.21.3231.0"
 				}
 			],
 			"SourceDetails" : 

@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2024-11-11T17:26:45.558-00:00",
+	"CreationDate" : "2024-11-23T12:15:45.226-00:00",
 	"Sources" : 
 	[
 		{
@@ -19,12 +19,16 @@
 					"Version" : "17.0.13.11"
 				},
 				{
-					"PackageIdentifier" : "tailscale.tailscale",
-					"Version" : "1.76.3"
+					"PackageIdentifier" : "KeePassXCTeam.KeePassXC",
+					"Version" : "2.7.9"
 				},
 				{
 					"PackageIdentifier" : "joncampbell123.DOSBox-X",
 					"Version" : "2023.10.06"
+				},
+				{
+					"PackageIdentifier" : "Transmission.Transmission",
+					"Version" : "4.0.6"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.PowerShell",
@@ -39,12 +43,12 @@
 					"Version" : "9.21.0713"
 				},
 				{
-					"PackageIdentifier" : "EclipseAdoptium.Temurin.8.JRE",
-					"Version" : "8.0.432.6"
+					"PackageIdentifier" : "Starship.Starship",
+					"Version" : "1.21.1"
 				},
 				{
-					"PackageIdentifier" : "Transmission.Transmission",
-					"Version" : "4.0.6"
+					"PackageIdentifier" : "EclipseAdoptium.Temurin.8.JRE",
+					"Version" : "8.0.432.6"
 				},
 				{
 					"PackageIdentifier" : "glzr-io.glazewm",
@@ -56,7 +60,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.EdgeWebView2Runtime",
-					"Version" : "130.0.2849.56"
+					"Version" : "130.0.2849.80"
 				},
 				{
 					"PackageIdentifier" : "Valve.Steam",
@@ -67,8 +71,8 @@
 					"Version" : "1.5.1"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x86",
-					"Version" : "14.40.33816.0"
+					"PackageIdentifier" : "tailscale.tailscale",
+					"Version" : "1.76.6"
 				},
 				{
 					"PackageIdentifier" : "Intel.IntelDriverAndSupportAssistant",
@@ -80,7 +84,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x64",
-					"Version" : "14.40.33816.0"
+					"Version" : "14.42.34433.0"
 				},
 				{
 					"PackageIdentifier" : "Nvidia.PhysXLegacy",
@@ -95,8 +99,16 @@
 					"Version" : "8.0.10"
 				},
 				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x86",
+					"Version" : "14.42.34433.0"
+				},
+				{
 					"PackageIdentifier" : "Brave.Brave",
-					"Version" : "130.1.71.123"
+					"Version" : "131.1.73.91"
+				},
+				{
+					"PackageIdentifier" : "Fastfetch-cli.Fastfetch",
+					"Version" : "2.29.0"
 				},
 				{
 					"PackageIdentifier" : "JesseDuffield.lazygit",
@@ -128,7 +140,7 @@
 				},
 				{
 					"PackageIdentifier" : "Obsidian.Obsidian",
-					"Version" : "1.7.4"
+					"Version" : "1.7.5"
 				},
 				{
 					"PackageIdentifier" : "sxyazi.yazi",
@@ -136,7 +148,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.PowerToys",
-					"Version" : "0.85.1"
+					"Version" : "0.86.0"
 				},
 				{
 					"PackageIdentifier" : "64Gram.64Gram",
@@ -152,7 +164,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.AppInstaller",
-					"Version" : "1.24.25180.0"
+					"Version" : "1.24.25200.0"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.UI.Xaml.2.7",
@@ -167,8 +179,8 @@
 					"Version" : "14.0.33728.0"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.WindowsTerminal.Preview",
-					"Version" : "1.22.2912.0"
+					"PackageIdentifier" : "Microsoft.WindowsTerminal",
+					"Version" : "1.21.3231.0"
 				}
 			],
 			"SourceDetails" : 
@@ -180,5 +192,5 @@
 			}
 		}
 	],
-	"WinGetVersion" : "1.9.25180"
+	"WinGetVersion" : "1.9.25200"
 }
