@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2024-11-23T21:36:52.006-00:00",
+	"CreationDate" : "2024-11-24T13:26:01.092-00:00",
 	"Sources" : 
 	[
 		{
@@ -60,7 +60,7 @@
 				},
 				{
 					"PackageIdentifier" : "joncampbell123.DOSBox-X",
-					"Version" : "2023.10.06"
+					"Version" : "2024.10.01"
 				},
 				{
 					"PackageIdentifier" : "Transmission.Transmission",
@@ -225,6 +225,10 @@
 				{
 					"PackageIdentifier" : "Google.PlatformTools",
 					"Version" : "35.0.1"
+				},
+				{
+					"PackageIdentifier" : "Gramps.Gramps",
+					"Version" : "5.2.3"
 				},
 				{
 					"PackageIdentifier" : "JesseDuffield.lazygit",
