@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2024-11-24T13:26:01.092-00:00",
+	"CreationDate" : "2024-11-26T18:32:20.381-00:00",
 	"Sources" : 
 	[
 		{
@@ -43,8 +43,8 @@
 					"Version" : "3.6.0"
 				},
 				{
-					"PackageIdentifier" : "Zoom.Zoom",
-					"Version" : "6.2.50536"
+					"PackageIdentifier" : "Nextcloud.NextcloudDesktop",
+					"Version" : "3.15.0"
 				},
 				{
 					"PackageIdentifier" : "KeePassXCTeam.KeePassXC",
@@ -67,12 +67,12 @@
 					"Version" : "4.0.6"
 				},
 				{
-					"PackageIdentifier" : "Nextcloud.NextcloudDesktop",
-					"Version" : "3.14.3"
-				},
-				{
 					"PackageIdentifier" : "Logitech.OptionsPlus",
 					"Version" : "1.84.641293"
+				},
+				{
+					"PackageIdentifier" : "Zoom.Zoom",
+					"Version" : "6.2.50939"
 				},
 				{
 					"PackageIdentifier" : "glzr-io.zebar",
@@ -325,6 +325,10 @@
 				{
 					"PackageIdentifier" : "Microsoft.WindowsTerminal",
 					"Version" : "1.21.3231.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.WSL",
+					"Version" : "2.3.26.0"
 				}
 			],
 			"SourceDetails" : 
