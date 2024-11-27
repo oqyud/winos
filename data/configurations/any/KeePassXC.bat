@@ -1,7 +1,7 @@
 @echo off
 setlocal
 
-set "app=ludusavi"
+set "app=KeePassXC"
 
 set "from_1=%storage-programs%\%app%"
 set "to_1=%appdata%\%app%"
