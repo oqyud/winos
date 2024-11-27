@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2024-11-26T18:32:20.381-00:00",
+	"CreationDate" : "2024-11-27T18:16:09.603-00:00",
 	"Sources" : 
 	[
 		{
@@ -131,6 +131,10 @@
 					"Version" : "12.0.40664.0"
 				},
 				{
+					"PackageIdentifier" : "Microsoft.DotNet.Runtime.7",
+					"Version" : "7.0.20"
+				},
+				{
 					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.9",
 					"Version" : "9.0.0"
 				},
@@ -141,6 +145,10 @@
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2012.x86",
 					"Version" : "11.0.61030.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.7",
+					"Version" : "7.0.20"
 				},
 				{
 					"PackageIdentifier" : "Python.Launcher",
@@ -252,7 +260,7 @@
 				},
 				{
 					"PackageIdentifier" : "SagerNet.sing-box",
-					"Version" : "1.10.1"
+					"Version" : "1.10.2"
 				},
 				{
 					"PackageIdentifier" : "SumatraPDF.SumatraPDF",
@@ -287,6 +295,10 @@
 					"Version" : "0.56.3"
 				},
 				{
+					"PackageIdentifier" : "mtkennerly.ludusavi",
+					"Version" : "0.27.0"
+				},
+				{
 					"PackageIdentifier" : "sxyazi.yazi",
 					"Version" : "0.3.3"
 				},
@@ -305,6 +317,10 @@
 				{
 					"PackageIdentifier" : "Python.Python.3.12",
 					"Version" : "3.12.7"
+				},
+				{
+					"PackageIdentifier" : "ImageMagick.Q16",
+					"Version" : "7.1.1.41"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.AppInstaller",
