@@ -23,6 +23,7 @@
   <package id="KB2999226" version="1.0.20181019" />
   <package id="KB3033929" version="1.0.5" />
   <package id="KB3035131" version="1.0.3" />
+  <package id="mo2" version="2.5.2" />
   <package id="nano" version="7.2.36.20230412" />
   <package id="nano-win" version="7.2.36.20230412" />
   <package id="nvidia-display-driver" version="566.14.0" />
