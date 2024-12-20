@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2024-12-09T13:56:26.220-00:00",
+	"CreationDate" : "2024-12-20T19:58:41.562-00:00",
 	"Sources" : 
 	[
 		{
@@ -33,6 +33,10 @@
 				{
 					"PackageIdentifier" : "Transmission.Transmission",
 					"Version" : "4.0.6"
+				},
+				{
+					"PackageIdentifier" : "PDFsam.PDFsam",
+					"Version" : "5.2.9.0"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.PowerShell",
@@ -83,10 +87,6 @@
 					"Version" : "8.0.11"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.8",
-					"Version" : "8.0.11"
-				},
-				{
 					"PackageIdentifier" : "Microsoft.DotNet.Runtime.3_1",
 					"Version" : "3.1.32"
 				},
@@ -99,12 +99,20 @@
 					"Version" : "> 3.12.0"
 				},
 				{
+					"PackageIdentifier" : "LesFerch.WinSetView",
+					"Version" : "3.0.1"
+				},
+				{
 					"PackageIdentifier" : "Intel.IntelDriverAndSupportAssistant",
 					"Version" : "24.6.49.8"
 				},
 				{
 					"PackageIdentifier" : "Nvidia.PhysXLegacy",
 					"Version" : "9.13.0604"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.8",
+					"Version" : "8.0.11"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2012.x64",
@@ -116,11 +124,11 @@
 				},
 				{
 					"PackageIdentifier" : "Brave.Brave",
-					"Version" : "131.1.73.97"
+					"Version" : "131.1.73.104"
 				},
 				{
 					"PackageIdentifier" : "Fastfetch-cli.Fastfetch",
-					"Version" : "2.31.0"
+					"Version" : "2.32.1"
 				},
 				{
 					"PackageIdentifier" : "Gramps.Gramps",
@@ -172,11 +180,7 @@
 				},
 				{
 					"PackageIdentifier" : "sxyazi.yazi",
-					"Version" : "0.3.3"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.PowerToys",
-					"Version" : "0.86.0"
+					"Version" : "0.4.1"
 				},
 				{
 					"PackageIdentifier" : "64Gram.64Gram",
