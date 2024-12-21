@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2024-12-20T20:24:04.340-00:00",
+	"CreationDate" : "2024-12-21T20:14:39.844-00:00",
 	"Sources" : 
 	[
 		{
@@ -31,10 +31,6 @@
 					"Version" : "10.0.40219"
 				},
 				{
-					"PackageIdentifier" : "calibre.calibre",
-					"Version" : "7.22.0"
-				},
-				{
 					"PackageIdentifier" : "EclipseAdoptium.Temurin.17.JRE",
 					"Version" : "17.0.13.11"
 				},
@@ -59,16 +55,16 @@
 					"Version" : "4.0.6"
 				},
 				{
+					"PackageIdentifier" : "calibre.calibre",
+					"Version" : "7.23.0"
+				},
+				{
 					"PackageIdentifier" : "Logitech.OptionsPlus",
 					"Version" : "1.85.655119"
 				},
 				{
 					"PackageIdentifier" : "Zoom.Zoom",
 					"Version" : "6.3.52884"
-				},
-				{
-					"PackageIdentifier" : "PDFsam.PDFsam",
-					"Version" : "5.2.9.0"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.PowerShell",
@@ -236,7 +232,7 @@
 				},
 				{
 					"PackageIdentifier" : "Fastfetch-cli.Fastfetch",
-					"Version" : "2.31.0"
+					"Version" : "2.32.1"
 				},
 				{
 					"PackageIdentifier" : "GNU.Nano",
@@ -316,7 +312,7 @@
 				},
 				{
 					"PackageIdentifier" : "sxyazi.yazi",
-					"Version" : "0.4.1"
+					"Version" : "0.4.2"
 				},
 				{
 					"PackageIdentifier" : "the-sz.SpyEx",
@@ -328,7 +324,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.PowerToys",
-					"Version" : "0.87.0"
+					"Version" : "0.87.1"
 				},
 				{
 					"PackageIdentifier" : "64Gram.64Gram",
